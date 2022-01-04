@@ -1,0 +1,15 @@
+E:\File\Project\翻砍砍怪\翻砍砍怪\bin\Debug\翻砍砍怪.exe
+E:\File\Project\翻砍砍怪\翻砍砍怪\bin\Debug\翻砍砍怪.pdb
+E:\File\Project\翻砍砍怪\翻砍砍怪\obj\Debug\翻砍砍怪.c1.resources
+E:\File\Project\翻砍砍怪\翻砍砍怪\obj\Debug\翻砍砍怪.Form1.resources
+E:\File\Project\翻砍砍怪\翻砍砍怪\obj\Debug\翻砍砍怪.Properties.Resources.resources
+E:\File\Project\翻砍砍怪\翻砍砍怪\obj\Debug\翻砍砍怪.csproj.GenerateResource.cache
+E:\File\Project\翻砍砍怪\翻砍砍怪\obj\Debug\翻砍砍怪.csproj.CoreCompileInputs.cache
+E:\File\Project\翻砍砍怪\翻砍砍怪\obj\Debug\翻砍砍怪.exe
+E:\File\Project\翻砍砍怪\翻砍砍怪\obj\Debug\翻砍砍怪.pdb
+E:\File\Project\翻砍砍怪\翻砍砍怪\bin\Debug\翻砍砍怪.exe.manifest
+E:\File\Project\翻砍砍怪\翻砍砍怪\bin\Debug\翻砍砍怪.application
+E:\File\Project\翻砍砍怪\翻砍砍怪\obj\Debug\翻砍砍怪.TrustInfo.xml
+E:\File\Project\翻砍砍怪\翻砍砍怪\obj\Debug\翻砍砍怪.exe.manifest
+E:\File\Project\翻砍砍怪\翻砍砍怪\obj\Debug\翻砍砍怪.application
+E:\File\Project\翻砍砍怪\翻砍砍怪\bin\Debug\翻砍砍怪.exe.config
